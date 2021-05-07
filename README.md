@@ -2,5 +2,5 @@
 - 📍 I currently live in Denver, CO but will be moving to Maryland after July 31, 2021.
 - 👀 I’m interested in furthering my knowledge and skills in Sass, JavaScript, HTML5/CSS3 and web design. 
 - 🌱 I’m currently learning Sass, CSS Grid, CSS Flexbox, HTML5/CSS3, and website accessibility to make the web more understood through the use of screen-readers. 
-- 🖇 Projects outside of general practice will be found here as I develop more for the community of businesses around me. 
+- 🖇 Projects big and small can be found here as I continue to learn and better my web development skills and knowledge.
 - 📫 How to reach me nicksaveleski@gmail.com
