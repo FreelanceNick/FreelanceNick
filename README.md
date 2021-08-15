@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick Saveleski.
 - 📍 I currently live in Denver, CO but will be moving to Maryland after July 31, 2021.
 - 👀 I’m interested in furthering my knowledge and skills in Sass, JavaScript, HTML5/CSS3 and web design. 
-- 🌱 I’m currently learning Sass, CSS Grid, CSS Flexbox, HTML5/CSS3, and website accessibility.
+- 🌱 I’m currently learning Sass, CSS Grid, CSS Flexbox, HTML5/CSS3, and website accessibility through Team Treehouse.
 - 🖇 Projects big and small can be found here as I continue to learn and better my web development skills and knowledge.
 - 📫 How to reach me nicksaveleski@gmail.com
