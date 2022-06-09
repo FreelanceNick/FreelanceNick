@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Richard (Nick) Saveleski.
 - 📍 I currently live in Carroll County, MD and am open to relocate if the right opportunity presents itself.
-- 🌱 I’m currently learning Sass, CSS Grid, CSS Flexbox, HTML5/CSS3, and website accessibility through Team Treehouse.
+- 🌱 I’m currently learning Sass, CSS Grid, CSS Flexbox, HTML5/CSS3, and website accessibility.
 - 👀 I’m interested in furthering my knowledge and skills in Sass, JavaScript, HTML5/CSS3 and web design. 
 - 🖇 Projects big and small can be found here as I continue to learn and better my web development skills and knowledge.
 - 📫 How to reach me nicksaveleski@gmail.com
